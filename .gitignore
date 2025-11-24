@@ -1,0 +1,9 @@
+# Python related files/folders
+linkedin_scrapper/__pycache__/
+linkedin_scrapper/scripts/__pycache__/
+linkedin_scrapper/venv/*
+# Prevent accidental upload of login info
+linkedin_scrapper/logins.csv
+.env
+# Ignore backups and other versions of the db
+# E.g. linkedin_jobs.db.bak, linkedin_jobs_uk.db
